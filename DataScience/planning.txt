@@ -1,0 +1,91 @@
+###### What I want
+
+=> Short and to the point
+   - Aim for one page, if that is working then try 2
+
+=> Emphasise skills
+   - Coding skills
+   - Presenting skill
+   - Collabarative skills
+   - Data analysis skill
+   - Adaptability
+
+=> No typos
+
+=> Have a story at the start
+
+
+###### Detail
+
+name, email, phone, d.o.b., gitHub?
+
+
+###### Personal Statement
+
+I am a Physicist working as part of the ATLAS collaboration analysing the huge amount of data produced by the Large Hadron Collider experiment,
+in the search for new physics.
+This has given me experience of analysing and understanding large data sets within a collaborative environment as well as experience of presenting conclusions from that data to a range of audiences.
+and I would be interested in expanding uponto analyse new data-sets from real world situations.
+I believe that my natural curiosity, computational skills and strong mathematical problem solving background, make me well suited to a role in data science.
+
+
+###### Research Experience
+
+UCL, Particle Physics PhD Student 
+
+I am a member of the ATLAS collaboration that analyses the large number of high energy particle collisions provided by the Large Hadron Collider.
+This involves collaborating on large scale data analysis using Python and C++,
+
+My key roles are:
+
+- An analyser in a team searching for new physics using pairs of b-jets.
+  I work within a team searches for new physics as a "bump" in the otherwise smooth background distributions.
+  We use a multi-variate algorithm to identify objects called b-jets, which increases our signal to background ratio.
+  My specific roles include analysing the background and validating the fit function used to model the background,
+  using pseudo-datasets taken from monte-carlo simulation.
+  
+- Lead analyser measuring the efficiency of the ATLAS b-jet trigger.
+  The trigger is a tool used to reduce the data taking rate to a managable amount by making an in-time decision on whether to store or delete data on each event.
+  This measurement required understanding a complicated data-set, as some regions of data-taking had different behaviour, the performance 
+  The efficiency of the b-jet trigger measurement is required by other analyses within the collaboration to proceed to publication,
+  so this measurement had to performed to deadlines and communicated in an effective way to the users.
+  
+ - I have presented slides of my work at many different levels; in technical detail within smaller weekly working groups, to the wider scientific comminity at workshops and conferences and to the public and schools as part of outreach, showing that I have experience of presenting complicated data analysis to a range of audiances and at a range of detail levels.
+ - Attended lecture courses including  postgraduate courses at UCL and a CERN summer schools that include lectures on statistics and the use of machine learning in data analysis 
+
+Rutherford-Appleton Laboratory, Summer Research Student
+
+Institute of Astronomy, University of Cambridge, Summers Research Student
+
+
+###### Previous Education
+
+PhD, UCL
+
+MPhys, University of Oxford
+       2:1 - 68%
+       Mathematical problem solving in a variety of physics situations in addition to advanced mathematics.
+       Courses include particle physics, astrophysics, calculus and....
+
+
+Altrincham Grammar School For Boys
+	A-levels: Maths, Futher Maths, Physics and History (A*, A*, A*, B)
+
+
+####### Technical Skills
+
+ - Python, C++: I have good experience of using both of these languages to analyse large data sets.
+ - Python libraries: Large experience with using project specific python libraries in data analysis project,
+   	  	     some experience of using data-science libraries (pandas, numpy, seaborn, scikit-learn)
+ - Git: Used git as version control both privately and on large coding collaborations
+ - SQL: Self-taught using online tutorials and practiced in private projects.
+ - Additionaly profficient user of LaTeX, bash and Excel.
+
+
+###### Hobbies and Interests
+
+- Sports: Running and cycling, member of various university and local teams including cricket and football.
+- French: Basic conversational level, learnt through regular weekly language exhanges with French native speakers for last 3 years. 
+ 
+
+
