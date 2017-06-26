@@ -1,12 +1,10 @@
 Q: When will you finish your current role?
 
-   - Finish in september!
-   - Short-ish answer
+   I am currently a third-year PhD student and I am on course to writing up by September 2017.
 
 Q: Are you able to start full-time employment after finishing this Fellowship (due to finish 27th Oct 2017)? What is the notice period on your current employment (if any)?
 
-   - Yes, barring delay on PhD thesis
-   - No notice, other than finishing writing up.
+   I am able to start full-time employment immediately after the course. The only requirement I have is to have finished the writing up procedure
 
 Q: Where are you interested in working?
 
@@ -18,18 +16,35 @@ Q: Do you have the right to work in the UK?
 
 Q: Do you have any experience in the various sub-domains of data science (include details of any coding, statistics, machine learning courses, etc)? Describe them.
 
-   *** Work on this bit ***
    - Coding: Strong: Python, C++, Root
      	     Some:   SQL
 	     Libraries: Skicit Learn, Numpy, Scipy
 
    - Stats: Large scale statistics project (ATLAS)
-     	    Significance, p-values, look-else where effect, exclusion limits.
-	    
+     	    Significance, p-values, look-else where effect, exclusion limits.	    
    - ML courses: - Kaggle
 		 - Hackathon
 		 - Skicit Learn Tutorials,Gilles Louppe, IML ML Workshop, CERN.
 		 - Machine Learning Academic Lectures (Kagan, Jonathon Shlens)
+
+
+   I have a wide experience in coding within the work as part of my PhD and previous summer projects.
+   I have 3+ years experience of coding in Python and C++ within large scale data-analyses used in scientific publications,
+   mainly using ROOT, the predominant statistical analysis programme within the field.
+   I also have experience of using wider python libraries, including Skicit-Learn, Numpy and Scipy, through online tutorials and private projects.
+   In addition, I have some experience of using SQL through online tutorials.
+   This demonstrates my ability and willingness to learn new programming languages and adapt to the requirements of data analysis within a specific industry.
+
+   In addition I have extensive experience of using statistics to analyse large data-sets,
+   specifically experience of analysing the quality of fits to distributions,
+   and calculating the significance of deviations within a data-set.
+
+   I also have an interest in and have attended courses on Machine Learning,
+   including Skicit Learn tutorials held by a library developer Geilles Louppe at a ML workshop held at CERN,
+   and a set of three "Machine Learning Academic Lectures" held at CERN, including a lectrue by Jonathon Shlens of Deep Mind Google.
+   I have also applied ML to data-sets from Kaggle using Skicit-Learn library.
+   
+   
 
 Q: Can you tell us about your favourite part of your PhD / current role?
 
