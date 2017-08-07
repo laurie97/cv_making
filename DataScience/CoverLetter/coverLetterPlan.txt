@@ -1,0 +1,114 @@
+Opening sentance, why do I want to work for this company:
+
+Write down 3 things that excite you about the role.
+
+(a) Analysing large data-sets and cutting edge techniques to obtain real world impact.
+(b) Oppurtunity to learn about new fields and many industries
+(c) International company, based in Paris.
+
+Why they are exciting.
+
+Something new
+
+(a) Quick to learn new programming knowledge
+
+(b) Work well within a team
+
+(c) How statistics is enjoyable
+
+
+You are Fluent in English
+You have previous experience in problem solving end to end.
+Ideally, you have good technical skills SQL, programming languages, ...
+You have previous international experience
+You are interested in analysis and statistics
+You are versatile, dynamic.
+You have a real interest in online Advertising market and the impact of a high-performance technology in this market
+
+To the Criteo team,
+
+I am applying for the Data Analysis role at Critea, and I would like to explain why am excitied about this role and
+how I believe I have the statistical, technical and communcation skills required to succed with the role.
+
+This role really interests me as it would allow me to take the analytical and technical skills I've learnt from my PhD
+and apply them to create impact in a real world problem such as online advertising.
+I would relish the challenges and rewards of using cutting-edge statistical and computational techniques on a complex and large data-set to be able
+to improve the effectiveness of a companies advertising campaign,
+and I would also enjoy the opportunity to obtain a broader knowledge of the advertising market and those of your clients.
+Finally, I know from my experience of working at the CERN campus in Geneva,
+that the international collaborative of Criteo within the diverese city of Paris would suit me well.
+
+I believe that I have good analytical and statistical skills that would make me well qualified for this job.
+My current research involves searching for signs of new physics in the large data-sets taken by the ATLAS experiment;
+this entails identifying for approximately 100s of discrepant data-points within a data-set containing of order 10 million events.
+This has required use of a machine-learning algorithm to improve identification of events of interest,
+regression techniques to model large backgrounds,
+and  bayesian hypothesis testing to quantify the results.
+I also have an experience and interest in statistical and mathematical analysis beyond the confines of my current research;
+my university degree consisted of applying mathematical and statistical problems solving to complex problems,
+I have been to statistical courses at UCL and at an international physics summer school hosted by CERN
+and I attended a CERN academic tutorial series on Machine Learning,
+which consisted of a series of lectures from the experts in the field from CERN and from Google.
+
+
+`As part of this research, I led the measurement of the performance of the $b$-trigger,
+a vital component of the data-aquisition used in our experiment.
+I helped identify that the $b$-trigger was performing well below expectations,
+understand the reasons for this
+and work with experts to mitigate the issue in the effected data.'
+
+
+
+To perform the statistical analyses on large data-sets mentioned above I have developed
+a range of computing skills that would put me in good stead for a role with Criteo.
+I have 3 years experience of using linux, python, C++ and git to perform large-scale collaborative analysis,
+in addition to using software and large scale frameworks specific to the field, for example ROOT.
+Whilst working on these projects I have shown that I am able to learn new computational skills required;
+for a specific example of this when I began working on the new physics search described above,
+much of the tools we required were already written in Python, a language that I had zero experience of using.
+However, from studying the existing code and online manuals I found that I was quickly able to
+understand the language such that I could use and adapt the existing code to perform our analysis.
+I believe that this ability to adapt to a new working environment gives me confidence that I would be able to fit in within Criteo.
+I am also keen to broaden these skill outside of my current set of skill;
+I have taken online tutorials and have some basic usage of SQL and
+data-science specific python libraries such as seaborn, pandas and skicit-learn;
+the later learnt through attending a tutorial held at CERN by a lead developer of the module.
+
+
+
+To be able to analyse these large data-sets within the collaborative environment I have developed a range
+of computing tools ranging from expertise in the basic languages,
+to the specific computing tools used within our experiments software;
+showing that I have the ability to learn new computing skills
+allowing me to rapidly adapt to a different projects and working environments.
+
+An equally important facet of my research experience is the ability to effectively collaborate in an international environment
+and communicate the results of a statistical analysis to others.
+The ATLAS experiment, of which I am a member, is an international collaboration of 3,000 physicists and engineers,
+performing complicated analyses on large and often messy data-sets.
+For us to effectively carry out this task it is necessary to work together in small groups
+with regularly formal and informal communication within and between these groups.
+I work well within this environment;
+and as a result I was asked to be an analysis contact for the last 6 months,
+a role which involves co-ordinating the work of a team of 5 scientists
+and representing our work and needs to those outside of the team, including the ATLAS management hierachy.
+I have also been invited to give a number of presentations in a large range of situations;
+including a number of international and national scientific conferences and workshops, for example a large particle-physics conference in Russia,
+regular updates to fellow experts within and from relevant analysis teams
+and outreach events explaining current research to schools pupils ranging in age from 11-18.
+From this I have learnt that when presenting is is essential to understand the audience that you are presenting to
+and to think about what the key messages your audience should take away
+such that one is able to effectively communicate the details and outcomes of the hard work.
+
+Thank you for considering my application and I look foward to hearing from you,
+
+Laurie M^{c}Clymont
+
+
+
+
+
+
+
+
+

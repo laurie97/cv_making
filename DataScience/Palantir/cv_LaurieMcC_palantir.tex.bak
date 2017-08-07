@@ -1,9 +1,29 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Wilson Resume/CV
+% XeLaTeX Template
+% Version 1.0 (22/1/2015)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Howard Wilson (https://github.com/watsonbox/cv_template_2004) with
+% extensive modifications by Vel (vel@latextemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 %----------------------------------------------------------------------------------------
 %	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
 %----------------------------------------------------------------------------------------
 
 \documentclass[10pt]{article} % Default font size
+
 \input{structure.tex} % Include the file specifying document layout
+
+%---------------------------------------------------------------------------------------
 
 \begin{document}
 
@@ -35,34 +55,39 @@
 \section{Personal Profile}
 \begin{itemize}
 \item{UCL physics PhD student, currently analysing large data sets at the LHC experiment at CERN.}
-\item{Experienced in using computational tools, such as Python, to analyse and understand large data sets.}
 \item{Strong communication skills; including presenting complex information and collaborative working.}
-\item{My data analysis experience, natural curiosity and strong mathematical background make me well suited to a role to using large data to tackle real-world problems.}
+\item{Experienced in using computational tools, such as Python, to analyse and understand large data sets.}
+\item{My data analysis experience, natural curiosity and strong communication skills make me well
+      suited to a role using large data to tackle real-world problems with Palantir Technologies.}
 \end{itemize}
-
 
 \vspace{0.2mm}
 \rule{\textwidth}{0.5mm}
 
+% Alternative
+%\item{I am a physicist, studying high-energy particle collisions at the Large Hadron Collider experiment.}
+%\item{This has given me experience of analysing and understanding large data sets with computational tools within
+%  a collaborative environment and would like to apply these skills to real-world problems.}
+%\item{I believe that my natural curiosity, computational skills, collaborative experience and strong mathematical problem solving background, make me well suited to a role in data science.}
 
 
 %----------------------------------------------------------------------------------------
 %	TECHNICAL SKILLS SKILLS SECTION
 %----------------------------------------------------------------------------------------
-\vspace{-1mm}
-\section{Relevant Skills}
+\vspace{-2mm}
+\section{Skills}
 \begin{tabbing}
   \hspace{3mm} \= \hspace{30mm} \= \kill 
   \skill{Computing}
         {
-          Languages: Python (pandas, seaborn, scikit-learn), C++, bash. \\
+          Languages: Python, C++, bash. \\
           \>\>Platforms: Linux, Mac OSX. \\
           \>\>Others: Git, LaTeX, Excel, PowerPoint, Word, SQL.
         }
   \skill{Statistics}  { Regression, hypothesis testing, error analysis, machine learning, likelihoods. }
   \skill{Communication}
         {
-          Selected to present at national and international scientific conferences.\\
+          Selected to present at national and international conferences, involved with scientific outreach.\\
           \>\>Strong team player; worked within large teams including in a leadership role.
         }
 \end{tabbing}
@@ -103,8 +128,8 @@
     \end{itemize}
  \item{Presented conclusions of data analysis to a range of audiences.}
    \begin{itemize}
-   \item{Routinely reported details of analysis to technical meetings in ATLAS and at UCL.}
    \item{Selected to summarise results to large scientific audiences at international conferences and workshops.}
+   \item{Routinely reported details of analysis to technical meetings in ATLAS and at UCL.}
    \item{Presented current research to school pupils to inspire the next generation of scientists.}
    \end{itemize}
  \end{itemize-noindent}
@@ -126,8 +151,8 @@
 {}
 {Student Access Representative}
 {\begin{itemize-noindent}
-  \item{Engaged with students from disadvantaged backgrounds to inspire and encourage applications to university.}
-  \item{Led a group of students to create a prospectus, advertising the college from a student's perspective.}
+  \item{Encouraged students from underprivaleged backgrounds to apply to Oxford University through engaging with schools.}
+  \item{Led a group of students to produce a prospectus, advertising the college from a student's perspective.}
  \end{itemize-noindent}}
 
 %----------------------------------------------------------------------------------------
@@ -168,7 +193,7 @@
 
 \begin{tabbing}
   \hspace{2mm} \= \hspace{18mm} \= \kill 
-  \skill{Sports}   {Play regularly in a local cricket and 5-a-side football team. Keen runner and cyclist.}
+  \skill{Sports}   {Enjoy endurance sports; specifically long-distance running, cycling and cricket.}
   \skill{French}   {Conversational level. Practice through weekly in person conversations with French natives for 2 years.}
   \skill{Travel}   {Enjoy exploring new cities and countries and their cultures.}
 \end{tabbing}
@@ -200,6 +225,16 @@ Referees available upon request
   \item{Spent eight weeks analysing a particular new physics model using a C++ framework.}
   \item{Identified an angular variable could be used to separate signal from background.}
 \end{itemize-noindent}}
+
+\job
+{Oct 2010 -}{Oct 2011}
+{Merton College JCR Access Representative}
+{}
+{}
+{\begin{itemize-noindent}
+  \item{Interacted with school students to encourage applications from a wide range of backgrounds to the college.}
+  \item{Liaised with officials from Merton College and schools to organise visits and encourage students.}
+ \end{itemize-noindent}}
 
 \vspace{10mm}
 Still to do...
