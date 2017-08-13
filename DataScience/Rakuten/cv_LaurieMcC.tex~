@@ -13,15 +13,16 @@
 
 
 \parbox{0.5\textwidth}{ % First block
-\title{\center{Laurie M$^{c}$Clymont}} % Print the main header
+\title{\center{Laurie McClymont}} % Print the main header
 }
 \hspace{2cm} % Horizontal space between the two blocks
 \parbox{0.5\textwidth}{ % Second block  
   \begin{tabbing} % Enables tabbing 
-    \hspace{2cm} \= \hspace{3cm} \= \kill % Spacing within the block
+    \hspace{2.3cm} \= \hspace{3cm} \= \kill % Spacing within the block
            {\bf Email} \> \href{mailto:laurie.mcclymont@cern.ch}{laurie.mcclymont@cern.ch} \\ % Email address
            {\bf Mobile} \> +447951694231  \\ % Mobile phone
-           {\bf LinkedIn} \> \href{https://www.linkedin.com/in/laurie-mcclymont-695520118/}{Laurie-McClymont} % LinkedIn
+           {\bf LinkedIn} \> \href{https://www.linkedin.com/in/laurie-mcclymont-695520118/}{Laurie-McClymont} \\% LinkedIn
+           {\bf Nationality} \> British
   \end{tabbing}
 }
 
@@ -37,7 +38,8 @@
 \item{UCL physics PhD student, currently analysing large data sets at the LHC experiment at CERN.}
 \item{Experienced in using computational tools, such as Python, to analyse and understand large data sets.}
 \item{Strong communication skills; including presenting complex information and collaborative working.}
-\item{My data analysis experience, natural curiosity and strong mathematical background make me well suited to a role to using large data to tackle real-world problems.}
+\item{My data analysis experience, natural curiosity and strong mathematical background make me well suited
+  to using large data to tackle real-world problems within the Data Analytics team at Criteo.}
 \end{itemize}
 
 
@@ -142,7 +144,7 @@
 {
   \begin{itemize-noindent}
   \item{MPhys Physics - 2:1 (68\%)}
-  \item{Involved mathematical and statistical problem solving for a range of situations.}
+  \item{Involved mathematical and statistical problem solving for a range of complex situations.}
   \end{itemize-noindent}
 }
 
@@ -152,7 +154,7 @@
 {https://www.agsb.co.uk}
 {
   \begin{itemize-noindent}
-  \item{A-Levels: Maths, Further Maths, Physics, History (A*, A* , A*, B).}
+  \item{A-Levels: Maths, Further Maths, Physics, History (A*, A*, A*, B).}
   \end{itemize-noindent}
 }
 
@@ -168,9 +170,9 @@
 
 \begin{tabbing}
   \hspace{2mm} \= \hspace{18mm} \= \kill 
-  \skill{Sports}   {Play regularly in a local cricket and 5-a-side football team. Keen runner and cyclist.}
-  \skill{French}   {Conversational level. Practice through weekly in person conversations with french natives for 2 years.}
-  \skill{Travel}   {Enjoy exploring new cities and countries and their cultures.}
+  \skill{French}   {Conversational level. Practice through weekly in person conversations with French natives.}
+  \skill{Sports}   {Play regularly in a 5-a-side rugby and football team. Keen runner and cyclist.}
+  \skill{Travel}   {Enjoy exploring new cities, countries and their cultures.}
 \end{tabbing}
 
 \vspace{-4mm}
